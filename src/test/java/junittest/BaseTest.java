@@ -20,7 +20,7 @@ public class BaseTest {
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
-		System.out.println("base test is runing");
+		System.out.println("base test is runing");// param
 	}
 
 	@Test
