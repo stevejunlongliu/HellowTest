@@ -9,7 +9,7 @@ public class TestDaoImpl implements TestDao {
 
 	@Override
 	public void test1() {
-		System.out.println("this test1 function");
+		System.out.println("this test1 function");//
 	}
 
 }
